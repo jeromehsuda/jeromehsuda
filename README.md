@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jerome Hsu!
 
-<!--
-**jeromehsuda/jeromehsuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 Passionate about Data & Visualization  
+📍 Based in Vancouver, Canada | 🌎 Bilingual: English & Mandarin  
 
-Here are some ideas to get you started:
+💡 I specialize in **SQL, Python, Power BI, and Excel** to extract insights and optimize business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+📦 Supply chain & logistics analyst with a data-driven approach to problem-solving  
+📈 Specialized in process optimization, cost reduction, and operational efficiency  
+🤖 Leveraging BI tools & automation to transform raw data into actionable insights
+
+
+
+---
+
+## 📂 Projects (Coming Soon!)
+🚧 **I'm currently working on data analytics projects. Stay tuned!**  
+
+---
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/yourname)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/yourgithub)  
