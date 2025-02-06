@@ -23,4 +23,4 @@
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jerome-hsu/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/yourgithub)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)](https://github.com/jeromehsuda)  
