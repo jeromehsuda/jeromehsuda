@@ -1,6 +1,6 @@
 # Hi, I'm Jerome Hsu!
 
-🎯 **Aspiring Data Analyst** | 📊 Passionate about Data & Visualization  
+💻 **Aspiring Data Analyst** | 📊 Passionate about Data & Visualization  
 📍 Based in Vancouver, Canada | 🌎 Bilingual: English & Mandarin  
 
 💡 I specialize in **SQL, Python, Power BI, and Excel** to extract insights and optimize business decisions.
