@@ -16,9 +16,9 @@
 
 ---
 
-## 📂 Projects (Coming Soon!)
-🚧 **I'm currently working on data analytics projects. Stay tuned!**  
-
+## 📂 Projects
+- [Retail Sales & Inventory Dashboard](https://github.com/jeromehsuda/retail-sales-inventory-dashboard)  
+  *SQL + Power BI project analyzing retail sales, replenishment KPIs, and inventory efficiency*
 ---
 
 ## 📫 Contact Me
