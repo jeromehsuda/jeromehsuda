@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Projects
-- [Retail Sales & Inventory Dashboard](https://github.com/jeromehsuda/retail-sales-inventory-dashboard)  
+- [Retail Sales & Inventory Dashboard](https://github.com/jeromehsuda/Retail_Sales_Inventory_Dashboard)  
   *SQL + Power BI project analyzing retail sales, replenishment KPIs, and inventory efficiency*
 ---
 
